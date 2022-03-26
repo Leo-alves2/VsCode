@@ -1,2 +1,2 @@
 # VsCode
-Estudo de casos
+Estudos de casos
